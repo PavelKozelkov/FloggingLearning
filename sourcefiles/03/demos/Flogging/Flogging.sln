@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging.Core", "Flogging.Core\Flogging.Core.csproj", "{F7C7F128-DD83-476A-9998-C9D0233AE095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloggingConsole", "FloggingConsole\FloggingConsole.csproj", "{C6E92ADA-D8E6-4A7D-B2E7-858C1487A9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging.Data", "Flogging.Data\Flogging.Data.csproj", "{FEAA56D2-D3CC-4620-A4EB-873D27B49687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C7F128-DD83-476A-9998-C9D0233AE095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C7F128-DD83-476A-9998-C9D0233AE095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C7F128-DD83-476A-9998-C9D0233AE095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C7F128-DD83-476A-9998-C9D0233AE095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E92ADA-D8E6-4A7D-B2E7-858C1487A9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E92ADA-D8E6-4A7D-B2E7-858C1487A9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E92ADA-D8E6-4A7D-B2E7-858C1487A9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E92ADA-D8E6-4A7D-B2E7-858C1487A9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAA56D2-D3CC-4620-A4EB-873D27B49687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAA56D2-D3CC-4620-A4EB-873D27B49687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAA56D2-D3CC-4620-A4EB-873D27B49687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAA56D2-D3CC-4620-A4EB-873D27B49687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
